@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-demo_shopping-cart_honey/static/css/main.9ac1c515.css",
+    "main.js": "/react-demo_shopping-cart_honey/static/js/main.63c1c777.js",
+    "static/media/honey.png": "/react-demo_shopping-cart_honey/static/media/honey.e34052a369e86180fc2d.png",
+    "static/media/sommerbluetenhonig.png": "/react-demo_shopping-cart_honey/static/media/sommerbluetenhonig.0f63f91785819ade4063.png",
+    "static/media/bluetenhonig.png": "/react-demo_shopping-cart_honey/static/media/bluetenhonig.3ad67229b029863ee4c7.png",
+    "static/media/waldhonig.png": "/react-demo_shopping-cart_honey/static/media/waldhonig.7f402c696dafb5bfeee1.png",
+    "static/media/beeleft.png": "/react-demo_shopping-cart_honey/static/media/beeleft.4a977b78d06eda5d2c66.png",
+    "static/media/beeright.png": "/react-demo_shopping-cart_honey/static/media/beeright.ba47de4832506bfb74dc.png",
+    "index.html": "/react-demo_shopping-cart_honey/index.html",
+    "main.9ac1c515.css.map": "/react-demo_shopping-cart_honey/static/css/main.9ac1c515.css.map",
+    "main.63c1c777.js.map": "/react-demo_shopping-cart_honey/static/js/main.63c1c777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac1c515.css",
+    "static/js/main.63c1c777.js"
+  ]
+}
