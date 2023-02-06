@@ -46,7 +46,11 @@ export class App extends Component {
 
     handleSubmit(event) {
         event.preventDefault();
-        console.log("Gesamtanzahl: " + this.state.honeyCounterTotal + "\nGesamtpreis: " + this.state.priceTotal);
+        
+        alert("Einkaufsübersicht:" 
+            + "\nGesamtanzahl: " + this.state.honeyCounterTotal
+            + "\nGesamtpreis: " + this.state.priceTotal);
+
         honeyDatas.forEach((data) => data.counter = 0);
 
         this.setState(() => ({
